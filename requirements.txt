@@ -1,0 +1,5 @@
+PyQt6
+Jinja2
+python-docx
+weasyprint
+pytest
